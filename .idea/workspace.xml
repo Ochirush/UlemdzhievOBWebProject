@@ -19,14 +19,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ochirush/UlemdzhievOBWebProject.git",
-    "accountId": "a90d59e7-f34f-4f8f-b1ba-b46d2adacf46"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ochirush/UlemdzhievOBWebProject.git&quot;,
+    &quot;accountId&quot;: &quot;a90d59e7-f34f-4f8f-b1ba-b46d2adacf46&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -90,7 +91,7 @@
       <workItem from="1730109081218" duration="701000" />
       <workItem from="1730109861707" duration="13652000" />
       <workItem from="1730213846130" duration="2968000" />
-      <workItem from="1730380045147" duration="349000" />
+      <workItem from="1730380045147" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -100,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730380342433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1730380406800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730380406800</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1730380568788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730380568788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
